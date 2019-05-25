@@ -1,1 +1,1 @@
-# A-Basic-C-RNN-Network-Applied-on-MNIST-Handwritting-Dataset
+# A Basic C-RNN Network Applied on MNIST Handwritting Dataset
