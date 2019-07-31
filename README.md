@@ -1,1 +1,1 @@
-# A Basic C-RNN Network Applied on MNIST Handwritting Dataset
+# Basic Deep Neural Networks Applied on MNIST Handwritting Dataset
