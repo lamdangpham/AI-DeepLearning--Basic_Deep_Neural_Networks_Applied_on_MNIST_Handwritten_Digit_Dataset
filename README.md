@@ -15,6 +15,6 @@
  + README.md
  
 2/ Notes:
- + All networks base on tensorflow framework
+ + All networks base on tensorflow framework 1.X
  + Dataset : MNIST
  
