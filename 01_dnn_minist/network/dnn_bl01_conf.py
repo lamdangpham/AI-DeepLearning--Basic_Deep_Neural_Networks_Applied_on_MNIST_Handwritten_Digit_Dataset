@@ -78,8 +78,8 @@ class dnn_bl01_conf(object):
                                                   )
         ### ======== Layer 05: full connection
         with tf.device('/gpu:0'), tf.variable_scope("fully_connected_layer05") as scope:
-            self.output_layer05 = self.fully_layer(self.output_layer03,
-                                                   self.dnn_para.l03_fc,
+            self.output_layer05 = self.fully_layer(self.output_layer04,
+                                                   self.dnn_para.l04_fc,
 
                                                    self.dnn_para.l05_fc, 
 
