@@ -19,7 +19,11 @@
  + Dataset : MNIST
  
 3/ conda env setting:
+
 + conda create --name test python=2.7
+  
 + conda activate test
+  
 + pip install tensorflow-cpu==1.15
+  
 + pip install -U scikit-learn
